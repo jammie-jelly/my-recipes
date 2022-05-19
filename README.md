@@ -1,5 +1,5 @@
-# my-recipes
+my-recipes
 
-## Test project
+Test project
 
-### Objective: Create basic html website
+Objective: Create basic html website
